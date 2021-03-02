@@ -13,7 +13,3 @@
 
 ![a](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 06b20fdbd00489690f8e07339d987e7d8abd092d

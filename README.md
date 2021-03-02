@@ -1,12 +1,15 @@
-# reading-notes-repo
-## Hi there
-### Lists
-     1. first
-     2. second
+# **Growth Mindset**
 
-![a](https://static1.squarespace.com/static/5d323cd7dc255e0001c67d6c/t/5d3edf4291c88800018d81e3/1611171799829/?format=1500w)
+##  *all this info from google*
 
-*any*
+## In the wake of these findings, “growth mindset” has become a buzzword in many major companies, even working its way into their mission statements. But when I probe, I often discover that people’s understanding of the idea is limited.
 
-**also**
+
+
+###  Let’s take a look at three common misconceptions.
+     1. I already have it, and I always have
+     2. A growth mindset is just about praising and rewarding effort.
+     3. Just espouse a growth mindset, and good things will happen.
+
+![a](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 

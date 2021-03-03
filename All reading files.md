@@ -1,4 +1,4 @@
-# All the reading files: 
+# All the reading files
 
 * [Reading 01a](https://ameenbassamsaleh.github.io/reading-notes-repo/)
 * [Reading 02a](https://ameenbassamsaleh.github.io/reading-notes-repo/Read%2002a)

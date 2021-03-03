@@ -1,6 +1,6 @@
 # Read: 02b - Revisions and the Cloud
 
-###First subject: we understood what Version Control is and what the difference between:
+### First subject: we understood what Version Control is and what the difference between:
 * Local Version Control
 * Centralized Version Control
 * Distributed Version Control. 
@@ -15,9 +15,9 @@
 
 * Staged: Flagged a file’s changed version to be committed in the next snapshot.
 
-####I find some info about Download Git and I found it useful.
+#### I find some info about Download Git and I found it useful.
 
-###They explain the HTML code command in a perfect way and I noted all this command :
+### They explain the HTML code command in a perfect way and I noted all this command :
 
 	* Colne
 	* Add

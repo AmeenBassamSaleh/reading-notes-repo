@@ -1,15 +1,20 @@
-# **Growth Mindset**
+# All the reading files 102 code
 
-##  *all this info from google*
+## Welcome everyone,
+#### I am **Ameen Saleh**, I am 24 years old, I am a marketer and I have 5 years experience as an agricultural store manager and abut programming I would like to be data science specialist.
+  
 
-## In the wake of these findings, “growth mindset” has become a buzzword in many major companies, even working its way into their mission statements. But when I probe, I often discover that people’s understanding of the idea is limited.
+
+### Here we can find all the reading notes at 102 code. 
 
 
 
-###  Let’s take a look at three common misconceptions.
-     1. I already have it, and I always have
-     2. A growth mindset is just about praising and rewarding effort.
-     3. Just espouse a growth mindset, and good things will happen.
+   |N     |The Notes                                                                                  | 
+   |:----:|:-----------------------------------------------------------------------------------------:|
+   |1     |[Reading 01a](https://ameenbassamsaleh.github.io/reading-notes-repo/)                      |
+   |2     |[Reading 02a](https://ameenbassamsaleh.github.io/reading-notes-repo/Read%2002a)            |
+   |3     |[Reading 02b](https://ameenbassamsaleh.github.io/reading-notes-repo/Read02b)               |
 
-![a](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 
+
+![reading img](https://scontent.famm3-2.fna.fbcdn.net/v/t31.0-8/27173347_577362115934608_8884370881857924896_o.jpg?_nc_cat=106&amp;ccb=3&amp;_nc_sid=19026a&amp;_nc_eui2=AeEd2RYgTb1GXFI-z8gcK5EH6g_HZrPjoKTqD8dms-OgpP_tMzlrFD8AcGjBWz2xHrGus-Mgcr_lixewTs5G_dfd&amp;_nc_ohc=AikVHDD2_pcAX_MV10r&amp;_nc_oc=AQlmwyqjnk_9NnoF64JECbdD_txFuat4dB9QmRczQWAv_LkkTwqq4Ce7Af6daS8DjpM&amp;_nc_ht=scontent.famm3-2.fna&amp;oh=221023e521e44c3f049891d2c4212bd0&amp;oe=6067B35E)

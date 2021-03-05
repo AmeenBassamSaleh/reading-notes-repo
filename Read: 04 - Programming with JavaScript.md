@@ -10,3 +10,5 @@
 * RULES FOR NAMING VARIABLES.
 
 * It is important to know that the numbering of this list starts at zero (not one).
+
+![JS PS](JS PS.PNG)

@@ -11,7 +11,7 @@
 
    |N     |The Notes                                                                                  | 
    |:----:|:-----------------------------------------------------------------------------------------:|
-   |1     |[All the note 01a](https://ameenbassamsaleh.github.io/reading-notes-repo/)                      |
+   |1     |[All note 01a](https://ameenbassamsaleh.github.io/reading-notes-repo/)                      |
    |2     |[Reading 02a](https://ameenbassamsaleh.github.io/reading-notes-repo/Read%2002a)            |
    |3     |[Reading 02b](https://ameenbassamsaleh.github.io/reading-notes-repo/Read02b)               |
 

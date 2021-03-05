@@ -9,11 +9,11 @@
 
 
 
-   |N     |The Notes                                                                                  | 
-   |:----:|:-----------------------------------------------------------------------------------------:|
-   |1     |[All note 01a](https://ameenbassamsaleh.github.io/reading-notes-repo/)                      |
-   |2     |[Reading 02a](https://ameenbassamsaleh.github.io/reading-notes-repo/Read%2002a)            |
-   |3     |[Reading 02b](https://ameenbassamsaleh.github.io/reading-notes-repo/Read02b)               |
+   |N     |content                                                                                    |Description              |
+   |:----:|:-----------------------------------------------------------------------------------------:|:-------------------------------:|
+   |1     |[All note 01a](https://ameenbassamsaleh.github.io/reading-notes-repo/)                     |                          |
+   |2     |[Reading 02a](https://ameenbassamsaleh.github.io/reading-notes-repo/Read%2002a)            |Markdown and GitHub     |
+   |3     |[Reading 02b](https://ameenbassamsaleh.github.io/reading-notes-repo/Read02b)               |Revisions and the Cloud   |
 
 
 

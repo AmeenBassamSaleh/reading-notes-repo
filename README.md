@@ -18,5 +18,5 @@
    |5     |[Reading 04a](https://ameenbassamsaleh.github.io/reading-notes-repo/Read:%2004%20-%20Programming%20with%20JavaScript) |Programming with JavaScript  | 
 
 
-![reading img](https://scontent.famm10-1.fna.fbcdn.net/v/t1.6435-9/147445362_1386006835070128_4646493620770706255_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_eui2=AeG2SPA2vdhTJA1umt_US54gsTkXt2OM_06xORe3Y4z_TizMHgLKqMDk7Ua0u1mLJV-EfJR7G9rpfC7McrGAb4ax&_nc_ohc=MxW0yFWNY7gAX8M_9sX&_nc_ht=scontent.famm10-1.fna&oh=49f40f9f2ee2d9a609411b0c3554c93c&oe=60AA641F)
+![reading img](https://scontent.famm10-1.fna.fbcdn.net/v/t1.6435-9/147445362_1386006835070128_4646493620770706255_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_eui2=AeG2SPA2vdhTJA1umt_US54gsTkXt2OM_06qMDk7Ua0u1mLJV-EfJR7G9rpfC7McrGAb4ax&_nc_ohc=MxW0yFWNY7gAX8M_9sX&_nc_ht=scontent.famm10-1.fna&oh=49f40f9f2ee2d9a609411b0c3554c93c&oe=60AA641F)
 
